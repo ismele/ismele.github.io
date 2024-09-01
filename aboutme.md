@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Learn something about me :
+subtitle: Learn something about me 
 ---
 
 My name is Isael Melendez . I have the following qualities:
