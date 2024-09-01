@@ -38,6 +38,24 @@ round-avatar: true
 # then specify the following parameter
 Avatar: "/assets/img/Profile.png "
 
+<section class = "hidden">
+        <ul class = "homepage-display">
+            <li class = "hpd-item" style = "max-width: 23%;">
+                <img src = "pics-and-font/profile-picture.png"  style = "max-width: 100%;">
+            </li>
+            <li class = "hpd-item">
+                <p class = "text-align-left" style = "width: 100%">
+                    Hello! I’m Michael Tanjuakio <br><br>
+                    I’m a senior at UTD pursuing a Bachelors for Software Engineering
+                </p>
+                <div class = "icon-list">
+                        <a href = "https://github.com/Michael-Tanjuakio"><img src = "pics-and-font/github-icon.png" class = "icon"></a>
+                        <a href = "https://www.linkedin.com/in/michael-tanjuakio/"><img src = "pics-and-font/linkedin-icon.png" class = "icon"></a>
+                        <a href = "mailto:miketan843@gmail.com"><img src = "pics-and-font/email-icon.png" class = "icon"></a>
+                </div>
+            </li>
+        </ul>
+    </section>
 
 #####################################
 # --- Footer social media links --- #
